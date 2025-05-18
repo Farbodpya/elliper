@@ -9,4 +9,6 @@ A Python package for approximating the perimeter of an ellipse using:
 
 ## Installation
 ```bash
-pip install -e .
+git clone https://github.com/Farbodpya/elliper.git
+cd elliper
+python compare_methods.py
